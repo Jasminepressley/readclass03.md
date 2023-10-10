@@ -1,0 +1,33 @@
+#Readings: Startup Sequences and BIOS/(CLASS-READ 03 NOTES)
+
+#Begin with a statement addressing why this topic matters? 
+  -Bios matters because its an important factor on how you computer operates. Which include Booting The Computer, Loading The Operating System, Hardware Configuration, 
+Security, Firmware Updates, Legacy Support, System Recovery and Overclocking. That being said BIOS plays a crucial role in this module as we break down how a computer works    
+
+##1.What is the BIOS?
+  -BIOS stands for "Basic Input/Output System."
+  Its a systen utility program that loads the operating system when the computer is turned on
+
+##2.Use analogies from your previous background to explain what happens during the booting process?
+  -During the booting process from past experince the my computer was identying current issue that were going on like 
+operating system not working or any error codes would pop up identify what was going on. 
+  
+##3.What is the “Power On Self Test”?
+  -This is when you turn on a computer. Bios runs multiple diagnostic test on hardware components to verify they are working
+correctly. If any errors arise, Bios will display error messages with details of finding. It also my beep to indicating 
+there is an underlying problem. 
+  
+##4.What is the CMOS?
+  -CMOS stands for “Complementary Metal-Oxide-Semiconductor” This type of semiconductor technology is used in the manufacturing 
+of circuits with include microprocessor, memory chips and other digital logic circuits.Key features and characteristics of CMO.  -Complementary,-Low Power -Consumption, -High noise immunty, Scalability, -Wide Application Range, -Memory Cells, -Digital Logic, Integrated    Circuits  
+  
+##5.What is the CMOS battery?
+  -Its a small coin cell battery located on the motherboard and other devices to provide power to CMOS chip.
+
+  Resources:
+I was able obtain information through:
+  -Chat.openai.com
+  -https:www.learncomputerscienceonline.com/bios/
+
+
+  
