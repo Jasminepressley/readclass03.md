@@ -1,0 +1,27 @@
+##Reading Notes (CLASS READ 04)
+
+The Complete Beginner’s Guide to Ubuntu
+
+What is Ubuntu?
+  -Ubuntu arised in 2004 
+  -Ubuntu is a Linux distribution based on Debian and composed mostly of free and open-source software. 
+
+Why would you choose to install the LTS version over regular Ubuntu releases? 
+  -This would be based on the consumer needs. If the consumer is installing LTS version over Umbutu releases 
+  might be because many reasons like Stability,Longer Support, Compatibility, Server Use, Mission-Critical Systems, Reduced Administrative Overhead, 
+  and Testing and Stability    
+
+What is the Ubuntu GNOME Shell?
+  -The GNOME Shell is the graphical display belonging to the GNOME desktop environment,but this section covers the GNOME overview screens, 
+    both the activities and the applications. These are the closest equivalent to the old Ubuntu Unity Dash and are also the method used to 
+    find applications and keep running windows organized.
+
+How do I install software from the command line?
+  -To install software from the command line, you'll typically use package management tools that are specific to your operating system. 
+  The exact commands you'll use depend on whether you're using a Linux distribution, macOS, or Windows.
+
+  Resources:
+    -https://en.wikipedia.org/wiki/Ubuntu
+    -https://web.archive.org/web/20220312030901/https://www.lifewire.com/beginners-guide-to-ubuntu-2205722#toc-the-ubuntu-gnome-shell
+    https://chat.openai.com/c/504a03c5-95e2-41fe-b9d5-42b444e817f7
+    
